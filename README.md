@@ -41,6 +41,8 @@ The objective of this project is to create an Employee Attendance Dashboard usin
 
 7.Dashboard Creation: Develop an interactive dashboard to display the analyzed data and provide insights.
 ## Dashboard
+![Screenshot 2024-11-24 082926](https://github.com/user-attachments/assets/d5bf6b4d-7197-4b31-b131-06717474b28d)
+
 
 
 
