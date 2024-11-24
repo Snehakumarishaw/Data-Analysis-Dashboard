@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
- I created an interactive Power BI dashboard to monitor and analyze employee attendance data. It leverages Power BI's visualization capabilities and uses Excel as the data source for accessibility.
+# Employee-Attendance-DataAnalysis(Interactive Dashboard Creation using Ms-Excel)
+ ## Objective of the Project
+The objective of this project is to create an Employee Attendance Dashboard using Power BI. This dashboard aims to provide insights into employee attendance patterns, identify trends, and help HR managers make informed decisions to improve overall attendance and productivity.
+
+
